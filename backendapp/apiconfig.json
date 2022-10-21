@@ -1,0 +1,15 @@
+{
+  "current": {
+    "api": "current.json",
+    "q": "Bengaluru",
+    "aqi": "no"
+  },
+
+  "forecast": {
+    "api": "forecast.json",
+    "q": "Chennai",
+    "days": "1",
+    "aqi": "no",
+    "alerts": "no"
+  }
+}
