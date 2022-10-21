@@ -1,6 +1,3 @@
-API KEY
-bf40c48035034c209c452800221310
-
 Preparing for the task:
 
 1. Register at www.weatherapi.com
@@ -16,9 +13,6 @@ Preparing for the task:
 
 10. In the table store attributes of API like URL, key and other mandatory fields and the parameter name
 
-http://api.weatherapi.com/v1/current.json?key=a7878497d5aa4e9bbe1145219220703&q=L ondon&aqi=no
-
-http://api.weatherapi.com/v1/forecast.json?key=a7878497d5aa4e9bbe1145219220703&q= London&days=1&aqi=no&alerts=no
 Give label to each of the records which can selected from droplist form (like weatherapi current, weatherapi forecast) Depending upon the selection and variable of the city name passed execute the api
 
 3. Create a mapper of the response for each api using the following response section in the tables beforehand
